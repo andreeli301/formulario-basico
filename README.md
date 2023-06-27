@@ -7,7 +7,7 @@
 Esse é um projeto Web Responsivo de uma pagina de um Formulário Básico
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido durante a maratoda Dev em Dobro com as seguintes tecnologias.
+Esse projeto foi desenvolvido com as seguintes tecnologias.
 
 - HTML
 - CSS
